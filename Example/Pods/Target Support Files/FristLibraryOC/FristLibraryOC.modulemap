@@ -1,0 +1,6 @@
+framework module FristLibraryOC {
+  umbrella header "FristLibraryOC-umbrella.h"
+
+  export *
+  module * { export * }
+}

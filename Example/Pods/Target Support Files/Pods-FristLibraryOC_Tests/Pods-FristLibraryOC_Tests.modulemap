@@ -1,0 +1,6 @@
+framework module Pods_FristLibraryOC_Tests {
+  umbrella header "Pods-FristLibraryOC_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

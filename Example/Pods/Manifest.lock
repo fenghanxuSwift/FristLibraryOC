@@ -1,0 +1,16 @@
+PODS:
+  - FristLibraryOC (0.1.0)
+
+DEPENDENCIES:
+  - FristLibraryOC (from `../`)
+
+EXTERNAL SOURCES:
+  FristLibraryOC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FristLibraryOC: fcd692bbcb8172c871ec8cbaf814997635ebc3da
+
+PODFILE CHECKSUM: 83b92571af0e7336ca2a16a80fd0abc9bdf6f852
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'FristLibraryOC_Example' do
+  pod 'FristLibraryOC', :path => '../'
+
+  target 'FristLibraryOC_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
